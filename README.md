@@ -25,8 +25,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/peterthemango"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="peterthemango" /></a></p>
 <br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petersotomango&show_icons=true&locale=en&layout=compact" alt="petersotomango" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterthemango&show_icons=true&locale=en&layout=compact" alt="petersotomango" /></p>
 <br><br><br><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petersotomango&show_icons=true&locale=en" alt="petersotomango" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peterthemango&show_icons=true&locale=en" alt="peterthemango" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petersotomango&" alt="petersotomango" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterthemango&" alt="peterthemango" /></p>
