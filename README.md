@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PeterTheMango</h1>
 <h3 align="center">A freelance developer from Qatar!</h3>
 
-- 🔭 I’m currently working on **Origin Ranked Bedwars and SkyPixelMC**
+- 🔭 I’m currently working on **Origin Ranked Bedwars and HeavenlyCloud**
 
 - 🌱 I’m currently learning **Python and Advanced Web Develpopment**
 
