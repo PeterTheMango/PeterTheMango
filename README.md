@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm PeterTheMango</h1>
 <h3 align="center">A freelance developer from Qatar!</h3>
 
-- 🔭 I’m currently working on **Origin Ranked Bedwars and HeavenlyCloud**
+- 🔭 I’m currently working on **Stellar Ranked Bedwars and HeavenlyCloud**
 
-- 🌱 I’m currently learning **Python and Advanced Web Develpopment**
+- 🌱 I’m currently learning **Python, Advanced Web Develpopment, Data Science and AI**
 
 - 👯 I’m looking to collaborate on **Discord Bots and Spigot Plugins**
 
-- 👨‍💻 All of my projects are available at [www.peterthemango.me](www.peterthemango.me)
+- 👨‍💻 All of my projects are available at [www.peterthemango.me](www.peterthemango.me) [WIP]
 
-- 💬 Ask me about **Discord.JS, Spigot, SQL**
+- 💬 Ask me about **Discord.JS, Spigot, SQL, MongoDB**
 
 - 📫 How to reach me **pyeshuajs23@gmail.com**
 
