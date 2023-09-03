@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PeterTheMango</h1>
 <h3 align="center">A freelance developer from Qatar!</h3>
 
-- 🔭 I’m currently working on **Stellar Ranked Bedwars and HeavenlyCloud**
+- 🔭 I’m currently working on **SharePrompt**
 
 - 🌱 I’m currently learning **Python, Advanced Web Develpopment, Data Science and AI**
 
