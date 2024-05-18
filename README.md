@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm PeterTheMango</h1>
 <h3 align="center">A freelance developer from Qatar!</h3>
 
-- 🔭 I’m currently working on **SharePrompt**
+- 🔭 I’m currently working on **My Portfolio Website**
 
-- 🌱 I’m currently learning **Python, Advanced Web Develpopment, Data Science and AI**
+- 🌱 I’m currently learning **Python, Advanced Web Develpopment, Data Analysis, Machine Learning**
 
-- 👯 I’m looking to collaborate on **Discord Bots and Spigot Plugins**
+- 👯 I’m looking to collaborate on **just about anything!**
 
-- 👨‍💻 All of my projects are available at [www.peterthemango.me](www.peterthemango.me) [WIP]
+- 👨‍💻 All of my projects are available at [www.petersotomango.com](https://www.petersotomango.com) [WIP]
 
-- 💬 Ask me about **Discord.JS, Spigot, SQL, MongoDB**
+- 💬 Ask me about **Discord.JS, Data Analysis and Visualization, Machine Learning, Database Design and Management**
 
-- 📫 How to reach me **pyeshuajs23@gmail.com**
+- 📫 How to reach me **@PeterTheMango** on Discord.
 
 - ⚡ Fun fact **I have been programming since the 5th grade!**
 
