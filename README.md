@@ -1,32 +1,57 @@
-<h1 align="center">Hi 👋, I'm PeterTheMango</h1>
-<h3 align="center">A freelance developer from Qatar!</h3>
+# Hi 👋, I'm PeterTheMango
+### A freelance developer from Qatar!
 
-- 🔭 I’m currently working on **My Portfolio Website**
+Welcome to my GitHub profile! I'm a passionate developer specializing in building robust and innovative applications. Based in Qatar, I work on a variety of projects ranging from web development to mobile app solutions.
 
-- 🌱 I’m currently learning **Python, Advanced Web Develpopment, Data Analysis, Machine Learning**
+## About Me
 
-- 👯 I’m looking to collaborate on **just about anything!**
+- 🌍 **Location:** Qatar
+- 💼 **Profession:** Freelance Developer
+- 🔭 **Interests:** Open-source contributions, cutting-edge technology, and crafting efficient solutions.
+- 🎯 **Focus:** Building quality software that solves real-world problems.
 
-- 👨‍💻 All of my projects are available at [www.petersotomango.com](https://www.petersotomango.com) [WIP]
+## Skills
 
-- 💬 Ask me about **Discord.JS, Data Analysis and Visualization, Machine Learning, Database Design and Management**
+- **Programming Languages:** JavaScript, Python, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js
+- **Mobile Development:** Flutter, React Native
+- **Database Technologies:** MySQL, MongoDB
+- **Tools & Platforms:** Git, Docker, AWS, CI/CD
 
-- 📫 How to reach me **@PeterTheMango** on Discord.
+## Currently Working On
 
-- ⚡ Fun fact **I have been programming since the 5th grade!**
+I'm currently focused on several exciting projects and initiatives:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **Innovative Web App:** Building a scalable web application using React and Node.js to streamline workflow management.
+- **Mobile Solutions:** Experimenting with Flutter to create cross-platform mobile applications.
+- **Open Source:** Contributing to various open-source projects and exploring new tech trends.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## Projects
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/peterthemango"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="peterthemango" /></a></p>
-<br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterthemango&show_icons=true&locale=en&layout=compact" alt="petersotomango" /></p>
-<br><br><br><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peterthemango&show_icons=true&locale=en" alt="peterthemango" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterthemango&" alt="peterthemango" /></p>
+Here are some of my featured projects:
+
+- [**Project One**](https://github.com/PeterTheMango/project-one) - A brief description of what this project does.
+- [**Project Two**](https://github.com/PeterTheMango/project-two) - A brief description of what this project does.
+- [**Project Three**](https://github.com/PeterTheMango/project-three) - A brief description of what this project does.
+
+## Connect with Me
+
+- [**LinkedIn**](https://www.linkedin.com/in/your-profile)  
+- [**Twitter**](https://twitter.com/your-handle)  
+- [**Portfolio**](https://your-portfolio.com)  
+
+Feel free to reach out if you'd like to collaborate or just have a chat about tech!
+
+---
+
+## GitHub Stats & Badges
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterTheMango&show_icons=true&theme=radical)](https://github.com/PeterTheMango)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterTheMango&layout=compact&theme=radical)](https://github.com/PeterTheMango)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeterTheMango&theme=radical)](https://git.io/streak-stats)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=PeterTheMango&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+*This README is a reflection of my journey and skills as a developer. Thanks for stopping by!*
