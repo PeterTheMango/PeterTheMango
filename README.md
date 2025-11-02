@@ -37,7 +37,7 @@ Here are some of my featured projects:
 ## Connect with Me
 
 - [**LinkedIn**](www.linkedin.com/in/pysotomango)  
-- [**Portfolio**](https://www.petersotomango.com) [WIP]  
+- [**Portfolio**](https://www.petersotomango.com)  
 
 Feel free to reach out if you'd like to collaborate or just have a chat about tech!
 
