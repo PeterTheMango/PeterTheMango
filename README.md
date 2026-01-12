@@ -1,56 +1,92 @@
-# Hi 👋, I'm PeterTheMango
-### A freelance developer & DSAI student from Qatar!
+# Hey, I’m PeterTheMango 🥭
 
-Welcome to my GitHub profile! I'm a passionate developer specializing in building robust and innovative applications. Based in Qatar, I work on a variety of projects ranging from web development to mobile app solutions.
+**Full-Stack Developer • AI Engineer • Problem Solver**  
+I turn messy ideas into clean, usable products — the kind people actually enjoy using.
 
-## About Me
-
-- 🌍 **Location:** Qatar
-- 💼 **Profession:** Freelance Developer || DSAI Student
-- 🔭 **Interests:** Open-source contributions, cutting-edge technology, and crafting efficient solutions.
-- 🎯 **Focus:** Building quality software that solves real-world problems.
-
-## Skills
-
-- **Programming Languages:** JavaScript, Python, Java, Typescript
-- **Web Development:** HTML, CSS, React, Node.js, Next JS
-- **Mobile Development:** React Native
-- **Database Technologies:** MySQL, MongoDB, Firebase
-- **Tools & Platforms:** Git, Docker, AWS, CI/CD
-
-## Currently Working On
-
-I'm currently focused on several exciting projects and initiatives:
-
-- **Innovative Web App:** Building a scalable web application using React and Node.js to streamline workflow management.
-- **Mobile Solutions:** Experimenting with React Native to create cross-platform mobile applications.
-
-## Projects
-
-Here are some of my featured projects:
-
-- [**Lifelines 25**](https://github.com/PeterTheMango/lifelines25-smartband/tree/main) - SmartBand tracking solution submitted for Lifelines 25'.
-- [**BungeeMessenger**](https://github.com/PeterTheMango/BungeeMessenger) - Minecraft bungeecord proxy messaging.
-- [**CancerAssignment**](https://github.com/PeterTheMango/CancerAssignment) - Cancer Prediction ML model for Intro to Data Science and AI Course.
-- [**SharePrompt**](https://github.com/PeterTheMango/SharePrompt) - Social platform where users can share their AI prompts. 
-
-## Connect with Me
-
-- [**LinkedIn**](www.linkedin.com/in/pysotomango)  
-- [**Portfolio**](https://www.petersotomango.com)  
-
-Feel free to reach out if you'd like to collaborate or just have a chat about tech!
+Right now I’m building full-stack mobile + web solutions at **[Sports-Vector](https://sports-vector.com)**, and finishing my **B.Sc. in Data Science & AI @ UDST** *(graduating 2026)*.  
+Based in **Qatar**, but my commits don’t need a visa.
 
 ---
 
-## GitHub Stats & Badges
+## 🧠 What I’m About
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterTheMango&show_icons=true&theme=radical)](https://github.com/PeterTheMango)
+I like building things that **work in the real world** — from IoT smartbands to AI-powered web apps.  
+My process is simple:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterTheMango&layout=compact&theme=radical)](https://github.com/PeterTheMango)
+**Understand the problem → prototype fast → ship something useful → iterate.**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeterTheMango&theme=radical)](https://git.io/streak-stats)
+### 🔥 Currently:
+- Building full-stack mobile/web solutions at **Sports-Vector**
+- Experimenting with **EdTech**, **Health Tech**, and **Developer Tools**
+- Open to **select freelance work** (interesting problems only 👀)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=PeterTheMango&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-*This README is a reflection of my journey and skills as a developer. Thanks for stopping by!*
+## 🧰 Tech I Reach For
+
+**Languages:** JavaScript/TypeScript, Python, Java  
+**Frameworks:** React, Next.js, React Native, Node.js  
+**Data:** MongoDB, MySQL, Firebase  
+**Tools:** Git, Docker, AWS
+
+> If it solves the problem better, I’ll learn it. Simple.
+
+---
+
+## 💼 Experience Highlights
+
+### **Software Engineer** — Sports-Vector *(Current)*
+Full-stack development across mobile and web platforms.
+
+### **Full Stack Engineer** — Cleano *(Feb 2025 – Jul 2025)*
+Built and optimized Next.js apps, designed scalable backend systems + APIs.
+
+### **Freelance Developer** *(2021 – Present)*
+4+ years of selective client work + personal product experiments.
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 [Lifelines25 SmartBand](https://github.com/PeterTheMango/lifelines25-smartband)
+IoT health-tracking solution submitted for Lifelines 25’ — hardware meets software.  
+`IoT` `Health Tech` `Hardware Integration`
+
+### 🎓 [StudyGenius](https://github.com/PeterTheMango/next-studygenius)
+AI-powered learning platform built with Next.js for smooth study workflows.  
+`Next.js` `AI/ML` `EdTech`
+
+### 📈 [Trackly Landing](https://github.com/PeterTheMango/trackly-landing)
+Modern landing page + tracking solution with clean UI/UX.  
+`React` `Full-Stack` `Web Design`
+
+### 🏆 [ACM Fort Santiago](https://github.com/PeterTheMango/acm-fort-santiago)
+Competition build showcasing problem-solving + implementation speed.  
+`Competition` `Full-Stack`
+
+### 🤖 [SharePrompt](https://github.com/PeterTheMango/SharePrompt)
+Social hub for discovering and sharing useful AI prompts.  
+`Social Platform` `AI` `Community`
+
+### 🎮 [BungeeMessenger](https://github.com/PeterTheMango/BungeeMessenger)
+Feature-rich messaging plugin for Minecraft Bungeecord proxies.  
+`Java` `Developer Tools` `Minecraft`
+
+---
+
+## 🤝 Let’s Build Something
+
+If you’re working on something ambitious (or weird in a good way), I’m down to chat.
+
+**Find me here:**
+- 🌐 Portfolio: https://www.petersotomango.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pysotomango  
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=PeterTheMango&theme=radical&hide_border=true)
+
+---
+
+*Building the future, one commit at a time.*  
+*And yes — the username is absolutely sponsored by mangoes 🥭*
