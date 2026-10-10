@@ -3,7 +3,7 @@
 **Full-Stack Developer • AI Engineer • Problem Solver**  
 I turn messy ideas into clean, usable products — the kind people actually enjoy using.
 
-Right now I’m building full-stack mobile + web solutions at **[Sports-Vector](https://sports-vector.com)**, and finishing my **B.Sc. in Data Science & AI @ UDST** *(graduating 2026)*.  
+Right now I’m building full-stack mobile + web solutions at **[Sports-Vector](https://sports-vector.com)**.  
 Based in **Qatar**, but my commits don’t need a visa.
 
 ---
